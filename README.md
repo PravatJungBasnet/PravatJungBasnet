@@ -1,6 +1,6 @@
 
 ## 💫 About Me:
-Greetings! I am Pravat Jung Basnet, a multifaceted software developer and 3D artist on a mission to blend technology and creativity into extraordinary experiences.
+Greetings! I am Pravat Jung Basnet, a multifaceted software developer.
 
 
 
@@ -16,3 +16,4 @@ Greetings! I am Pravat Jung Basnet, a multifaceted software developer and 3D art
 ![](https://github-contributor-stats.vercel.app/api?username=PravatJungBasnet&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=PravatJungBasnet&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=PravatJungBasnet&color=blue)](https://github.com/PravatJungBasnet)
