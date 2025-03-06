@@ -62,5 +62,5 @@
 
 ## :eye: GitHub Visits
 <p align="center">
-    <img src="https://count.getloli.com/get/@SandeepJoshi111?theme=rule34" alt="SandeepJoshi111" />
+    <img src="https://count.getloli.com/get/@PravatJungBasnet?theme=rule34" alt="PravatJungBasnet" />
 </p>
