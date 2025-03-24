@@ -29,7 +29,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=PravatJungBasnet&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PravatJungBasnet&theme=radical&hide_border=false"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PravatJungBasnet&theme=dark&exclude_days=Sat" alt="GitHub Streak" width="400px"/>
     </td>
   </tr>
 </table>
